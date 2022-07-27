@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2be6e44e53920c1419ed9d610e02307a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Radio Canada
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6a6b65b00c22b964e8f519cda1214ffc, type: 3}
+  - {fileID: 12800000, guid: e211d03660c221f439f4878defc2e3cf, type: 3}
+  - {fileID: 12800000, guid: b97921513a2f25b4297101179a8bc06a, type: 3}
+  - {fileID: 12800000, guid: 04c05f335cdd914449855e7ae4ec5af9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
